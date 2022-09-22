@@ -1,4 +1,3 @@
-# AboutMe
 <h1 align="center">Hi 👋, I'm Seyed Soheil Amini</h1>
 <h3 align="center">A Studnet of Computer Engineering at Yazd University</h3>
 
