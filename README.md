@@ -12,8 +12,8 @@
 - 📫 How to reach me **so6h6eil1382@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:38172154/?edit=true](https://www.linkedin.com/resume-builder/urn:li:fs_memberResume:38172154/?edit=true)
-<p>Hi I hope you enjoy the codes and find them useful
-To support me,<a href="https://www.buymeacoffee.com/so6h6eil13u"> buy me a coffee</a></p>
+<p>Hi I hope you enjoy the codes and find them useful &nbsp
+  <b>To support me</b>,<a href="https://www.buymeacoffee.com/so6h6eil13u"> buy me a coffee</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/seyed soheil amini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyed soheil amini" height="30" width="40" /></a>
